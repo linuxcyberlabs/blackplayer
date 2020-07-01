@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="Track_Sorting_Album">track</string>
+    <boolean name="nowplaying_rounded_corner" value="true" />
+    <string name="shuffle_mode">0</string>
+    <boolean name="enable_quick_actions" value="true" />
+    <boolean name="show_volume_controls" value="false" />
+    <string name="audio_focus_level">3</string>
+    <boolean name="color_ui_now_playing_buttons" value="false" />
+    <int name="color_window" value="-15263977" />
+    <boolean name="nowplaying_gestures" value="true" />
+    <boolean name="genre_expanded" value="true" />
+    <boolean name="album_cover_embedd" value="true" />
+    <boolean name="hide_unknown_artist" value="false" />
+    <boolean name="show_bookmark_page" value="true" />
+    <int name="color_text_playing" value="-1" />
+    <boolean name="hide_short_tracks" value="false" />
+    <boolean name="clockscreen_show_seekbar" value="true" />
+    <boolean name="playqueue_buttons_playlist" value="true" />
+    <boolean name="sm_show_recently_added" value="true" />
+    <boolean name="folder_images" value="true" />
+    <boolean name="album_cover_copyfolder" value="true" />
+    <boolean name="genre_hide_empty" value="false" />
+    <boolean name="playlist_commit3" value="false" />
+    <boolean name="play_pause_fade" value="false" />
+    <boolean name="show_clear_queue" value="false" />
+    <boolean name="hide_small_artists" value="false" />
+    <boolean name="lockscreen_blur_fake" value="false" />
+    <boolean name="track_progressbar" value="true" />
+    <boolean name="folder_view_flat" value="true" />
+    <boolean name="clockscreen_disable_keyguard" value="false" />
+    <int name="color_main_window" value="-15921907" />
+    <boolean name="notification_swipe_remove" value="true" />
+    <boolean name="clockscreen_lock_rotation" value="false" />
+    <boolean name="scan_skip_hidden" value="true" />
+    <boolean name="queue_swipe_remove" value="true" />
+    <boolean name="image_picker_view_albums_artists" value="false" />
+    <boolean name="artist_new_design" value="true" />
+    <boolean name="show_now_playing" value="false" />
+    <boolean name="show_sleep_timer" value="false" />
+    <boolean name="scan_ignore_nomedia" value="false" />
+    <boolean name="variations_seed_native_stored" value="true" />
+    <boolean name="show_next_prev_buttons" value="true" />
+    <boolean name="scan_skip_videos" value="true" />
+    <boolean name="persistent_service" value="false" />
+    <boolean name="color_ui_now_playing_text" value="false" />
+    <boolean name="enable_crossfading" value="false" />
+    <boolean name="scan_hide_small" value="false" />
+    <boolean name="skip_navigation" value="false" />
+    <boolean name="scan_skip_ringtones" value="true" />
+    <boolean name="folder_view" value="true" />
+    <boolean name="enable_bassboost" value="false" />
+    <string name="equalizer_config">Equalizer;curPreset=-1;numBands=5;band1Level=1000;band2Level=1500;band3Level=300;band4Level=400;band5Level=900</string>
+    <boolean name="notification_blackbutton2" value="true" />
+    <string name="genre_viewtype">Big List</string>
+    <boolean name="show_open_slidingmenu_button" value="true" />
+    <boolean name="show_album_title" value="true" />
+    <string name="notification_text_color">1</string>
+    <boolean name="gapless_crossfade_row" value="false" />
+    <boolean name="hide_small_albums" value="false" />
+    <boolean name="slidingmenu_logo_bottom" value="false" />
+    <string name="nowplaying_rounded_corner_size">Small</string>
+    <boolean name="media_button_start" value="true" />
+    <boolean name="quickactions_close_on_select" value="false" />
+    <boolean name="listen_storage" value="true" />
+    <boolean name="share_shortcut" value="true" />
+    <boolean name="broadcast_playqueue" value="false" />
+    <boolean name="chbx_showfavorites" value="false" />
+    <boolean name="analog_start" value="false" />
+    <boolean name="recent_task_pause" value="false" />
+    <string name="short_track_duration">20</string>
+    <string name="library_album_merge">0</string>
+    <boolean name="music_scanner_first" value="true" />
+    <boolean name="custom_library_betatest" value="true" />
+    <boolean name="show_quick_navbar" value="false" />
+    <int name="reverb_preset" value="0" />
+    <boolean name="enable_loudness" value="false" />
+    <int name="favorite_action" value="8" />
+    <string name="menu_binding">Open Search</string>
+    <boolean name="show_duration" value="false" />
+    <boolean name="force_english" value="false" />
+    <int name="current_preset" value="4215" />
+    <boolean name="fix_save_queue" value="false" />
+    <int name="genre_position" value="0" />
+    <boolean name="nowplaying_showed_help2" value="true" />
+    <boolean name="settings_shown_rating_dialog" value="true" />
+    <boolean name="notification_nougat_style" value="true" />
+    <boolean name="delete_shortcut" value="true" />
+    <boolean name="lockscreen_albumart" value="true" />
+    <boolean name="color_ui" value="false" />
+    <boolean name="bluetooth_start" value="false" />
+    <boolean name="force_az_sort" value="false" />
+    <boolean name="queue_clear_complete" value="true" />
+    <boolean name="slidingmenu_playlist" value="true" />
+    <boolean name="custom_lockscreen" value="false" />
+    <boolean name="now_playing_show_countdown" value="false" />
+    <int name="color_actionbar" value="-15921907" />
+    <boolean name="shortcut_ringtone" value="true" />
+    <boolean name="clockscreen_alert_mode" value="true" />
+    <boolean name="enable_virtualizer" value="false" />
+    <int name="nav_action_2" value="32" />
+    <boolean name="auto_open_nowplaying" value="false" />
+    <boolean name="nowplaying_extrainfo" value="false" />
+    <boolean name="adaptive_main_background" value="false" />
+    <float name="loudness_gain2" value="0.0" />
+    <string name="view_single_album">window</string>
+    <boolean name="slidingmenu_scan_music" value="false" />
+    <string name="albumlist_type">Material Grid</string>
+    <boolean name="show_exit_button" value="false" />
+    <string name="album_art_scaletype">Fill Height</string>
+    <string name="mostplayed_number">5</string>
+    <boolean name="album_dominate_ui" value="true" />
+    <boolean name="equalizer_fix_leave" value="false" />
+    <int name="color_nowplaying" value="-15000805" />
+    <boolean name="adaptive_background" value="true" />
+    <boolean name="enable_cast_fake" value="false" />
+    <boolean name="extra_wakelock" value="false" />
+    <boolean name="scan_auto_select_folders" value="true" />
+    <boolean name="gradient_ui" value="false" />
+    <boolean name="show_real_albumtracknumber" value="true" />
+    <string name="phonecall_behavior">Pause music, keep music paused after call ends.</string>
+    <string name="notification_background">4</string>
+    <boolean name="use_custom_audio_lib" value="true" />
+    <boolean name="enable_equalizer" value="true" />
+    <boolean name="gapless_playback" value="true" />
+    <boolean name="scan_use_file_timestamp" value="false" />
+    <boolean name="metadata_onlywifi" value="false" />
+    <int name="settings_started" value="25" />
+    <boolean name="show_np_queue_position" value="true" />
+    <long name="playlist_backup_lasttime" value="1593543008102" />
+    <boolean name="scrobble_sls" value="false" />
+    <boolean name="prefer_embedded" value="false" />
+    <int name="bassboost_strength" value="0" />
+    <boolean name="scan_skip_whatsapp" value="true" />
+    <boolean name="dominating_ui" value="false" />
+    <boolean name="transparent_main_actionbar" value="true" />
+    <boolean name="enable_blacklisting_fake" value="false" />
+    <boolean name="album_show_play_queue" value="true" />
+    <boolean name="merge_albums" value="false" />
+    <boolean name="quickactions_help" value="true" />
+    <boolean name="queue_translucent_actions" value="true" />
+    <string name="main_typeface">PT Sans</string>
+    <boolean name="broadcast_nowplaying" value="true" />
+    <boolean name="track_music" value="true" />
+    <int name="favorite_action2" value="13" />
+    <boolean name="show_all_audio" value="false" />
+    <string name="double_tap_action">17</string>
+    <boolean name="scan_skip_data" value="true" />
+    <string name="equalizer_type">BlackPlayer Equalizer</string>
+    <int name="virtualizer_strength" value="0" />
+    <boolean name="clockscreen_swipe_remove" value="true" />
+    <float name="soundbalace_right" value="1.0" />
+    <string name="artistlist_type">Grid</string>
+    <boolean name="enable_metadata" value="true" />
+    <boolean name="playlist_swipe_remove" value="true" />
+    <string name="search_button_position">Action Bar</string>
+    <boolean name="headset_triple" value="true" />
+    <boolean name="color_ui_seekbar" value="true" />
+    <boolean name="album_24bit_color" value="false" />
+    <boolean name="scan_agressive" value="true" />
+    <boolean name="artist_show_play_queue" value="true" />
+    <string name="text_animation">Slide Left</string>
+    <string name="scroll_effect">None</string>
+    <string name="repeat_mode">Repeat All</string>
+    <boolean name="album_pager_carousel" value="false" />
+    <boolean name="immersive_mode" value="false" />
+    <int name="shuffle_button_style" value="2" />
+    <boolean name="slidingmenu_mostplayed" value="false" />
+    <boolean name="notification_previous_track" value="true" />
+    <float name="soundbalace_left" value="1.0" />
+    <boole
